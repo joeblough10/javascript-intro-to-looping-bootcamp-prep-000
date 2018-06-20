@@ -22,3 +22,5 @@ while (countdown > 0) {
 }
 
 function doWhileLoop(array) {
+  
+}
