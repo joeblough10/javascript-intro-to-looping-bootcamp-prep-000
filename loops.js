@@ -27,7 +27,7 @@ function doWhileLoop(array) {
 }
  
 do {
-  console.log(array.shift)
+  console.log(array.shift())
 } while (array.length > 0 && maybeTrue());
 
 return array
